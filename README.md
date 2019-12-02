@@ -6,3 +6,4 @@
   - [LockstepEngine](https://github.com/JiepengTan/LockstepEngine) - A lockstep solution include lots of deterministic library
   - [Wave Function Collapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
   - [Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
+  - [Lockstep Tutorial](https://github.com/JiepengTan/Lockstep-Tutorial) - A Unity lock-step tutorial
